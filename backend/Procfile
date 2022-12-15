@@ -1,0 +1,1 @@
+web: gunicorn interlinker_backend.wsgi --log-file -
