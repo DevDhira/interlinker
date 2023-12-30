@@ -1,6 +1,6 @@
 # Interlinker
 
-Interlinker is a Tool for Bloggers for Creating Interlinks between Contents within Seconds.
+Interlinker is a Tool for Bloggers for Creating Interlinks between Contents within Seconds built back in 2021.
 
 Demo App 👉 https://inter-linker.web.app
 
